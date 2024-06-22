@@ -1,24 +1,6 @@
-# ecommerce-laravel-fullstack
+tokOOnline
 
-# Link : http://vampireecommerce.herokuapp.com
-
-This repo is based on the [youtube series](https://www.youtube.com/playlist?list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR) by [@drehimself](https://github.com/drehimself)
-
-## Features
-
--   Fully functional E-commerce website front-end and back-end built from scratch.
--   Using laravel voyager as an admin panel for the site.
--   javascript, jquery, bootstrap and css for the front-end.
--   Intelligent searching mechanism for products.
--   Awesome Cart package that uses session.
--   An artisan command to seed the database with all neccessary dummy data, even for voyager tables (php artisan ecommerce:install).
--   Different user roles and privileges.
--   Categories, tags and price filtering for easier search for products.
--   And much more features.
-
----
-
-## Installation Guide
+## Tata cara install
 
 1. clone this repo to your local machine: `git clone https://github.com/mhmdomer/ecommerce-laravel.git && cd ecommerce-laravel`
 1. copy `.example.env` to `.env` file: `cp .example.env .env`
